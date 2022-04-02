@@ -1,0 +1,39 @@
+.cardPage {
+    display: flex;
+    margin: 1rem;
+    box-shadow: 7px 5px 3px -4px rgba(0,0,0,0.50);
+}
+
+/* .cardsContent{
+    margin-bottom: 5em;
+} */
+
+.titleContent{
+    margin: 1em;
+    text-align: center;
+    font-family: 'Anton';
+}
+
+.paragContent{
+    font-family: 'Oswald';
+    font-weight: 900;
+    margin: 1rem;
+}
+
+img{
+    width: 100%;
+    /* margin-right: 5em; */
+    /* border: 0.5rem solid #6C30FF; */
+}
+
+.cardLeft {
+    width: 50%;
+}
+
+.cardsContent{
+    width: 50%;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+}
+
