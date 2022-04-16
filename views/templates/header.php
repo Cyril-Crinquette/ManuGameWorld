@@ -155,7 +155,7 @@
                     </div>
 
                     <div class="modal-footer">
-                        <button class="btn btn-lg" type="submit">Submit </button>
+                        <button class="btn btn-lg" type="submit">Valider </button>
                     </div>
                 </form>
             </div>
